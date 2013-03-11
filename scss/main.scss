@@ -1,0 +1,18 @@
+// Normalise.css
+@import 'vendor/normalise';
+
+body {
+    background: #efefef;
+    font-size: 14px;
+}
+
+#container {
+    background: white;
+    width: 960px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#status {
+    margin: 15px 0;
+}
